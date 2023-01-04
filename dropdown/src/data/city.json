@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "countryID": 1,
+        "city": "Delhi"
+    },
+    {
+        "id": 2,
+        "countryID": 1,
+        "city": "Mumbai"
+    },
+    {
+        "id": 3,
+        "countryID": 1,
+        "city": "Noida"
+    },
+    {
+        "id": 4,
+        "countryID": 2,
+        "city": "Sydney"
+    },
+    {
+        "id": 5,
+        "countryID": 2,
+        "city": "Melbourne"
+    },
+    {
+        "id": 6,
+        "countryID": 3,
+        "city": "Toronto"
+    },
+    {
+        "id": 7,
+        "countryID": 3,
+        "city": "Ottawa"
+    }
+]
